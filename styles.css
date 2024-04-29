@@ -81,3 +81,48 @@ p {
 
 
 }
+
+
+
+.links-footer {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 10px
+}
+
+.social-media:hover {
+    opacity: .8;
+}
+
+.social-media:active {
+    opacity: .4;
+}
+
+.social-media {
+    width: 30px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+   
+
+}
+
+.container {
+    color: white;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 30px;
+    margin-top: 90px;
+}
+
+.develop {
+    color: black;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 15px;
+}
