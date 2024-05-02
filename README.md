@@ -1,6 +1,6 @@
 [pt-BR]
 <h1 align="center">
-Library</h1>
+Livraria</h1>
 
 <h2> Esse foi um projeto que aprendi no <a href="https://rodolfomori.com.br/devclub">DevClub</a>,
  colocando em praticando HTML e CSS desenvolvendo um exemplo de site de livraria </h2>
