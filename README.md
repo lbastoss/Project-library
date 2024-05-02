@@ -19,7 +19,7 @@ Library</h1>
 
 <div>
 <img alt="HomeScren" src="https://github.com/lbastoss/Project-library/blob/main/assets/print.png" width="900" />
-<figcaption> <p bold >Library </p> </figcaption>
+<figcaption> <p> </p> </figcaption>
 </div>
 
 <br>
